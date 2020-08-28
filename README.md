@@ -25,4 +25,11 @@
 - 아래의 시간을 통해 실습관련 질문을 온라인으로 받을 예정입니다 (Google meet 활용).
 - (화) 11:30am-12:00am
 
+### Google Colab을 이용한 실습
+- Google colab.을 이용하면 실습코드를 불러와서 바로 실습을 진행할 수 있습니다.
 
+- [https://colab.research.google.com/github/](https://colab.research.google.com/github/)
+
+- hufsaim으로 검색 후, hufsaim/T10306201을 선택하면 업로드된 실습파일들을 확인할 수 있습니다.
+![](colab_github.png)
+- Chrome browser를 사용하는 것을 권장합니다.
