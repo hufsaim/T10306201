@@ -1,6 +1,6 @@
 ## T10306201
 # 의료영상처리의 이론 및 실습
-한국외국어대학교 바이오메디컬공학부 2021년 2학기 의료영상처리의 이론 및 실습 수업을 위한 페이지입니다. 
+한국외국어대학교 바이오메디컬공학부 의료영상처리의 이론 및 실습 수업을 위한 페이지입니다. 
 
 ### 담당교수
 - 남윤호 (Yoonho Nam)
@@ -11,14 +11,6 @@
 ### 교재 및 참고문헌
 - "Digital Image Processing, 4th Edition", by Rafael C. Gonzalez and Richard E. Woods. Pearson.
 - "Deep Learning with PyTorch", Eli Stevens, Luca Antiga, and Thomas Viehmann. Manning.
-
-### 수업시간 및 장소
-- (월) 1:30pm-3:30pm
-- Zoom (HUFS e-class를 통한 공지)
-
-### 실습시간 및 장소
-- (화) 10:30am-11:30am
-- Zoom (HUFS e-class를 통한 공지)
 
 ### Google Colab을 이용한 실습
 - Google colab.을 이용하면 실습코드를 불러와서 바로 실습을 진행할 수 있습니다.
