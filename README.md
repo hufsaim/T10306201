@@ -20,3 +20,12 @@
 - hufsaim으로 검색 후, hufsaim/T10306201을 선택하면 업로드된 실습파일들을 확인할 수 있습니다.
 ![](colab_github.png)
 - Chrome browser를 사용하는 것을 권장합니다.
+
+### HUFS MNIST Challenge Winners
+
+| year  | 1st | 2nd | 3rd |
+| ----- | --- | --- | --- |
+| 2021 | 전자15 이준혁 (91%) | BME17 유영범 (83%) | BME18 김현진 (72%) |
+| 2022 | BME17 정우진 (91%) | 국통18 이준혁 (89%)| BME20 박찬희 (81%)|
+| 2023 | | | |
+
